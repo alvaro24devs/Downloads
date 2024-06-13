@@ -57,4 +57,6 @@ create table general1 (
 
 select * FROM GENERAL1;
 
+
+
      
